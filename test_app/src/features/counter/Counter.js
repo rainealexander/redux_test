@@ -19,6 +19,7 @@ export function Counter() {
 
   return (
     <div>
+      <h1>Incrementor</h1>
       <div className={styles.row}>
         <button
           className={styles.button}
